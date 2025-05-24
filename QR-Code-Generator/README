@@ -1,1 +1,21 @@
+# QR Code Generator (Python)
+
+This is a simple Python script that generates a QR code from user input (text or URL) and saves it as a `.png` image.
+
+---
+
+## 📌 Features
+
+- Accepts any text or URL as input
+- Generates a high-quality QR code
+- Saves the QR code as an image file (`your_qrcode.png`)
+- Custom colors (green on white)
+
+---
+
+## 📷 Example Use
+
+```bash
+Enter the text or URL to generate QR code: https://www.youtube.com/
+QR code has been generated and saved as 'your_qrcode.png'
 
